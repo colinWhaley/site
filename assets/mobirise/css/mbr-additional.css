@@ -2192,6 +2192,24 @@ body {
 .cid-qU4xKPAEAu .mbr-text {
   color: #767676;
 }
+.cid-qUg04OpUbC {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-qUg04OpUbC .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-qUg04OpUbC .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-qUg04OpUbC .mbr-text {
+  color: #767676;
+}
 .cid-qUaihoLuRP .navbar {
   padding: .5rem 0;
   background: #333333;
