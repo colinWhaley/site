@@ -34,7 +34,7 @@
     },
     "versionFirst": "4.7.2",
     "uniqCompNum": 74,
-    "versionPublish": "4.8.1",
+    "versionPublish": "4.10.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/copyright-128x128.png",
@@ -45,7 +45,12 @@
         "name": "Rubik",
         "css": "'Rubik', sans-serif"
       }
-    ]
+    ],
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "http://colinwhaley.com",
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "contact.html": {
