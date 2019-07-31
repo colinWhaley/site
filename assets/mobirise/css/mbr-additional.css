@@ -168,8 +168,8 @@ body {
 }
 .btn-secondary,
 .btn-secondary:active {
-  background-color: #ff3366 !important;
-  border-color: #ff3366 !important;
+  background-color: #e9b929 !important;
+  border-color: #e9b929 !important;
   color: #ffffff !important;
 }
 .btn-secondary:hover,
@@ -177,14 +177,14 @@ body {
 .btn-secondary.focus,
 .btn-secondary.active {
   color: #ffffff !important;
-  background-color: #e50039 !important;
-  border-color: #e50039 !important;
+  background-color: #b38b12 !important;
+  border-color: #b38b12 !important;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #e50039 !important;
-  border-color: #e50039 !important;
+  background-color: #b38b12 !important;
+  border-color: #b38b12 !important;
 }
 .btn-info,
 .btn-info:active {
@@ -332,22 +332,22 @@ body {
 .btn-secondary-outline,
 .btn-secondary-outline:active {
   background: none;
-  border-color: #cc0033;
-  color: #cc0033;
+  border-color: #9c7910;
+  color: #9c7910;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
 .btn-secondary-outline.focus,
 .btn-secondary-outline.active {
   color: #ffffff;
-  background-color: #ff3366;
-  border-color: #ff3366;
+  background-color: #e9b929;
+  border-color: #e9b929;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #ff3366 !important;
-  border-color: #ff3366 !important;
+  background-color: #e9b929 !important;
+  border-color: #e9b929 !important;
 }
 .btn-info-outline,
 .btn-info-outline:active {
@@ -467,7 +467,7 @@ body {
   color: #149dcc !important;
 }
 .text-secondary {
-  color: #ff3366 !important;
+  color: #e9b929 !important;
 }
 .text-success {
   color: #f7ed4a !important;
@@ -493,7 +493,7 @@ a.text-primary:focus {
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
-  color: #cc0033 !important;
+  color: #9c7910 !important;
 }
 a.text-success:hover,
 a.text-success:focus {
@@ -1409,8 +1409,8 @@ body {
 }
 .xdsoft_datetimepicker .xdsoft_calendar td:hover,
 .xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box > div > div:hover {
-  color: #ffffff !important;
-  background: #ff3366 !important;
+  color: #000000 !important;
+  background: #e9b929 !important;
   box-shadow: none !important;
 }
 .cid-qVhk1CtWRF .navbar {
@@ -4427,7 +4427,19 @@ body {
 .cid-rxKI9gACbW {
   padding-top: 120px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/mbr-1920x1271.jpg");
+  background-image: url("../../../assets/images/mbr-4-1920x1271.jpg");
+}
+.cid-rxLWJ2my7m {
+  padding-top: 90px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-rxLWJ2my7m P {
+  color: #767676;
+}
+.cid-rxLWJ2my7m .mbr-text,
+.cid-rxLWJ2my7m .mbr-section-btn {
+  color: #232323;
 }
 .cid-rxKJpGFKWw {
   padding-top: 45px;
