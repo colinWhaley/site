@@ -2780,6 +2780,25 @@ body {
   color: #767676;
   text-align: left;
 }
+.cid-s0OTQ7DLvl {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-s0OTQ7DLvl .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-s0OTQ7DLvl .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-s0OTQ7DLvl .mbr-text {
+  color: #767676;
+  text-align: left;
+}
 .cid-qVu1FXNl70 {
   padding-top: 60px;
   padding-bottom: 60px;
